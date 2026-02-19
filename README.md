@@ -53,10 +53,11 @@ The output will be at `dist/LoLAutoAccept.exe`.
 - Windows (uses Windows-specific process detection)
 - League of Legends client must be running
 
-- not responsible if you get any penalisation or punishment by riot games
-
 ## Notes
 
 - The app only communicates with `127.0.0.1` (your local machine) — no data is sent anywhere
 - Uses the official LCU API that the League client exposes locally
 - Completely safe — it only reads process info and calls the local accept endpoint
+
+- - not responsible if you get any penalisation or punishment by riot games
+
