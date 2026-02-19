@@ -1,4 +1,4 @@
-# LoL Auto-Accept ✓
+# League of Legends - Match Auto Accept Script ✓
 
 A lightweight background application that **automatically accepts League of Legends matches** when they pop up. Runs quietly in your system tray.
 
